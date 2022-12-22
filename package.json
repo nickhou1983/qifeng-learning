@@ -1,0 +1,19 @@
+{
+  "name": "qifeng-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickhou1983/qifeng-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickhou1983/qifeng-learning/issues"
+  },
+  "homepage": "https://github.com/nickhou1983/qifeng-learning#readme"
+}
