@@ -1,7 +1,7 @@
 {
   "name": "@nickhou1983/qifeng-learning",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "This is my first package released by Github Action",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
